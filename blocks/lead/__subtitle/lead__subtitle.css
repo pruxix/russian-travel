@@ -27,13 +27,6 @@
       max-width: 288px;
       font-size: 16px;
       line-height: 20px;
-      margin: 16px 16px 0;
-    }
-}
-
-@media screen and (min-width: 320px) {
-  .lead__subtitle {
-      max-width: 288px;
       margin: 17px 16px 0;
-  }
+    }
 }

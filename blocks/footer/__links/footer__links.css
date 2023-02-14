@@ -10,7 +10,7 @@
 @media screen and (max-width: 678px) {
     .footer__links {
         flex-direction: column;
-        margin-bottom: 48px;
+        margin-bottom: 44px;
         gap: 32px;
     }
 }
